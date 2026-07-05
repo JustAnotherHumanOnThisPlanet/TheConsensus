@@ -17,7 +17,7 @@ You must give appropriate credit by including the following attribution:
 
 **Official Project:** https://github.com/JustAnotherHumanOnThisPlanet/TheConsensus
 
-**Community:** 
+**Community:** https://www.reddit.com/r/ProjectConsensus/
 
 **Support Just Another Human:** https://justanotherhumanonthisplanet.github.io/JustAnotherHuman/
 
