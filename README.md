@@ -1,4 +1,4 @@
-# The Consensus: An Evolving World Order
+# The Consensus - A Blueprint For An Evolving World Order
 
 A global open-source project and living experiment designed to build a borderless world from scratch through collective human consensus.
 
