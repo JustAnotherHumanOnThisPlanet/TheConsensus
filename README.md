@@ -26,7 +26,7 @@ We solve global challenges using an iterative, four-step flow:
 
 ## Resources
 * **Repository:** [https://github.com/JustAnotherHumanOnThisPlanet/TheConsensus](https://github.com/JustAnotherHumanOnThisPlanet/TheConsensus)
-* **Community Discussion:** r/ProjectConsensus 
+* **Community Discussion:** [r/ProjectConsensus](https://www.reddit.com/r/ProjectConsensus/) 
 
 ---
 *Consensus is the truth we seek. Let’s start building.*
